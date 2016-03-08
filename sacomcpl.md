@@ -1,7 +1,7 @@
 ## Computer Programming Languages
 
 name | paradigm
-----------------------------------
+-----|-----------------------------
 C | x
 C++ | x
 Java | x
