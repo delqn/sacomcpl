@@ -1,0 +1,136 @@
+## Computer Programming Languages
+
+{| class="wikitable"
+|-
+! name
+! created
+! paradigm
+! influenced-by
+! typing
+! function definition
+|-
+| [[C_(programming_language)|C]]
+| 1972
+| imperative (procedural), structured
+|
+|
+| `int main ( int argc , char *argv[]) {}`
+|-
+| [[C%2B%2B|C++]]
+| 1983
+| procedural, functional, object-oriented, generic
+|
+|
+|
+|-
+| [[Java_(programming_language)|Java]]
+| 1995
+| object-oriented (class-based), structured, imperative, generic, reflective, concurrent
+|
+|
+|
+|-
+| [[Scala_(programming_language)|Scala]]
+| 2004
+| functional, object-oriented, imperative, concurrent
+|
+|
+|
+|-
+| [[Clojure|Clojure]]
+| 2007
+| functional
+|
+|
+|
+|-
+| [[Ruby_(programming_language)|Ruby]]
+| 1995
+| object-oriented, imperative, functional, reflective
+|
+|
+|
+|-
+| [[JavaScript|Javascript]]
+| 1995
+| scripting, object-oriented (prototype-based), imperative, functional
+|
+|
+|
+|-
+| [[Python_(programming_language)|Python]]
+| 1991
+| object-oriented, imperative, functional, procedural, reflective
+|
+|
+| `def main(*args, **kwargs):`
+|-
+| [[Go_(programming_language)|Go]]
+| 2009
+| compiled, concurrent, imperative, structured
+|
+|
+|
+|-
+| [[Rust_(programming_language)|Rust]]
+| 2010
+| compiled, concurrent, functional, imperative, structured
+|
+|
+|
+|-
+| [[Erlang_(programming_language)|Erlang]]
+| 1986
+| concurrent, functional
+|
+|
+|
+|-
+| [[Haskell_(programming_language)|Haskell]]
+| 1990
+| functional, lazy/non-strict, modular
+|
+|
+|
+|-
+| [[Racket_(programming_language)|Racket]]
+| 1994
+| functional, procedural, modular, object-oriented, logic, reflective, meta
+| Scheme, Eiffel
+| Dynamic, strong, static
+| [lambda](https://docs.racket-lang.org/guide/lambda.html), [define](https://docs.racket-lang.org/guide/define.html)
+|-
+| [[Perl_6|Perl]]
+| 1987
+| functional, imperative, object-oriented (class-based), reflective, procedural, event-driven, generic
+|
+|
+|
+|-
+| [[Swift_(programming_language)|Swift]]
+| 2014
+| (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
+|
+|
+|
+|-
+| [[Objective-C|Objective-C]]
+| 1983
+| Reflective, class-based object-oriented
+|
+|
+|
+|-
+| [[Pascal_(programming_language)|Pascal]]
+| 1970
+| Imperative Structured
+|
+|
+|
+|-
+| [[Wolfram_Language|Wolfram]]
+| 1988
+| term-rewriting, functional, procedural, array
+|
+|
+|}
