@@ -10,7 +10,6 @@
 ! scope="col" | typing
 ! scope="col" | GC
 ! scope="col" | tail call
-! scope="col" | function definition
 |-
 | [[C_(programming_language)|C]]
 | 1972
@@ -27,7 +26,7 @@
 |
 |
 |
-| no (because RAII)
+| [[Resource Acquisition Is Initialization|no]]
 | maybe
 |-
 | [[Java_(programming_language)|Java]]
@@ -45,8 +44,8 @@
 |
 |
 |
-|
-|
+| yes
+| no
 |-
 | [[Clojure|Clojure]]
 | 2007
@@ -63,8 +62,8 @@
 |
 |
 |
-|
-|
+| [http://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html yes]
+| no
 |-
 | [[JavaScript|Javascript]]
 | 1995
@@ -72,8 +71,8 @@
 |
 |
 |
-|
-|
+| [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management yes]
+| no (maybe in ES6)
 |-
 | [[Python_(programming_language)|Python]]
 | 1991
@@ -81,8 +80,8 @@
 |
 |
 |
-|
-| `def main(*args, **kwargs):`
+| yes
+| no
 |-
 | [[Go_(programming_language)|Go]]
 | 2009
@@ -90,8 +89,8 @@
 |
 |
 |
-|
-|
+| yes
+| [https://groups.google.com/forum/#!msg/golang-nuts/nOS2FEiIAaM/miAg83qEn-AJ no]
 |-
 | [[Rust_(programming_language)|Rust]]
 | 2010
@@ -99,8 +98,8 @@
 |
 |
 |
-|
-|
+| [https://doc.rust-lang.org/std/sync/struct.Arc.html no]
+| [https://mail.mozilla.org/pipermail/rust-dev/2013-April/003557.html no]
 |-
 | [[Erlang_(programming_language)|Erlang]]
 | 1986
@@ -108,8 +107,8 @@
 |
 |
 |
-|
-|
+| yes
+| yes
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | 1990
@@ -117,17 +116,16 @@
 |
 |
 |
-|
-|
+| [https://wiki.haskell.org/GHC/Memory_Management yes]
+| [https://wiki.haskell.org/Tail_recursion yes]
 |-
 | [[Racket_(programming_language)|Racket]]
 | 1994
 | functional, procedural, modular, object-oriented, logic, reflective, meta
 | Scheme, Eiffel
-|
-|
 | Dynamic, strong, static
-| [lambda](https://docs.racket-lang.org/guide/lambda.html), [define](https://docs.racket-lang.org/guide/define.html)
+| yes
+| yes
 |-
 | [[Perl_6|Perl]]
 | 1987
@@ -135,8 +133,8 @@
 |
 |
 |
-|
-|
+| yes
+| no
 |-
 | [[Swift_(programming_language)|Swift]]
 | 2014
@@ -153,8 +151,8 @@
 |
 |
 |
-|
-|
+| no
+| no
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | 1970
@@ -170,6 +168,6 @@
 | term-rewriting, functional, procedural, array
 |
 |
-|
-|
+| no maybe
+| no maybe
 |}
