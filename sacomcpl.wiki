@@ -8,12 +8,14 @@
 ! scope="col" | paradigm
 ! scope="col" | influenced-by
 ! scope="col" | typing
+! scope="col" | GC
 ! scope="col" | tail call
 ! scope="col" | function definition
 |-
 | [[C_(programming_language)|C]]
 | 1972
 | imperative (procedural), structured
+|
 |
 |
 |
@@ -26,10 +28,12 @@
 |
 |
 |
+|
 |-
 | [[Java_(programming_language)|Java]]
 | 1995
 | object-oriented (class-based), structured, imperative, generic, reflective, concurrent
+|
 |
 |
 |
@@ -42,10 +46,12 @@
 |
 |
 |
+|
 |-
 | [[Clojure|Clojure]]
 | 2007
 | functional
+|
 |
 |
 |
@@ -58,6 +64,7 @@
 |
 |
 |
+|
 |-
 | [[JavaScript|Javascript]]
 | 1995
@@ -66,10 +73,12 @@
 |
 |
 |
+|
 |-
 | [[Python_(programming_language)|Python]]
 | 1991
 | object-oriented, imperative, functional, procedural, reflective
+|
 |
 |
 |
@@ -82,10 +91,12 @@
 |
 |
 |
+|
 |-
 | [[Rust_(programming_language)|Rust]]
 | 2010
 | compiled, concurrent, functional, imperative, structured
+|
 |
 |
 |
@@ -98,10 +109,12 @@
 |
 |
 |
+|
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | 1990
 | functional, lazy/non-strict, modular
+|
 |
 |
 |
@@ -111,6 +124,7 @@
 | 1994
 | functional, procedural, modular, object-oriented, logic, reflective, meta
 | Scheme, Eiffel
+|
 |
 | Dynamic, strong, static
 | [lambda](https://docs.racket-lang.org/guide/lambda.html), [define](https://docs.racket-lang.org/guide/define.html)
@@ -122,11 +136,13 @@
 |
 |
 |
+|
 |-
 | [[Swift_(programming_language)|Swift]]
 | 2014
 | (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
 | (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
+|
 |
 |
 |
@@ -138,6 +154,7 @@
 |
 |
 |
+|
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | 1970
@@ -146,11 +163,13 @@
 |
 |
 |
+|
 |-
 | [[Wolfram_Language|Wolfram]]
 | 1988
 | term-rewriting, functional, procedural, array
 | term-rewriting, functional, procedural, array
+|
 |
 |
 |}
