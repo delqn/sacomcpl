@@ -18,8 +18,8 @@
 |
 |
 |
-|
-| `int main ( int argc , char *argv[]) {}`
+| no
+| no
 |-
 | [[C%2B%2B|C++]]
 | 1983
@@ -27,8 +27,8 @@
 |
 |
 |
-|
-|
+| no (because RAII)
+| maybe
 |-
 | [[Java_(programming_language)|Java]]
 | 1995
@@ -36,8 +36,8 @@
 |
 |
 |
-|
-|
+| yes
+| no
 |-
 | [[Scala_(programming_language)|Scala]]
 | 2004
@@ -54,8 +54,8 @@
 |
 |
 |
-|
-|
+| yes
+| [http://clojure.org/about/functional_programming#_recursive_looping no]
 |-
 | [[Ruby_(programming_language)|Ruby]]
 | 1995
@@ -132,7 +132,7 @@
 | [[Perl_6|Perl]]
 | 1987
 | functional, imperative, object-oriented (class-based), reflective, procedural, event-driven, generic
-| functional, imperative, object-oriented (class-based), reflective, procedural, event-driven, generic
+|
 |
 |
 |
@@ -141,16 +141,16 @@
 | [[Swift_(programming_language)|Swift]]
 | 2014
 | (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
-| (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
 |
 |
 |
-|
+| [https://www.natashatherobot.com/functional-swift-tail-recursion/ no]
+| [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html no]
 |-
 | [[Objective-C|Objective-C]]
 | 1983
 | Reflective, class-based object-oriented
-| Reflective, class-based object-oriented
+|
 |
 |
 |
@@ -159,7 +159,7 @@
 | [[Pascal_(programming_language)|Pascal]]
 | 1970
 | Imperative Structured
-| Imperative Structured
+|
 |
 |
 |
@@ -168,7 +168,7 @@
 | [[Wolfram_Language|Wolfram]]
 | 1988
 | term-rewriting, functional, procedural, array
-| term-rewriting, functional, procedural, array
+|
 |
 |
 |
