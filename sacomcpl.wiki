@@ -4,6 +4,7 @@
 |+ Sortable table
 |-
 ! scope="col" | name
+! scope="col" | license
 ! scope="col" | created
 ! scope="col" | paradigm
 ! scope="col" | influenced-by
@@ -12,6 +13,7 @@
 ! scope="col" | tail call
 |-
 | [[C_(programming_language)|C]]
+| license
 | 1972
 | imperative (procedural), structured
 |
@@ -21,6 +23,7 @@
 | no
 |-
 | [[C%2B%2B|C++]]
+| license
 | 1983
 | procedural, functional, object-oriented, generic
 |
@@ -30,6 +33,7 @@
 | maybe
 |-
 | [[Java_(programming_language)|Java]]
+| license
 | 1995
 | object-oriented (class-based), structured, imperative, generic, reflective, concurrent
 |
@@ -39,6 +43,7 @@
 | no
 |-
 | [[Scala_(programming_language)|Scala]]
+| license
 | 2004
 | functional, object-oriented, imperative, concurrent
 |
@@ -48,6 +53,7 @@
 | no
 |-
 | [[Clojure|Clojure]]
+| license
 | 2007
 | functional
 |
@@ -57,6 +63,7 @@
 | [http://clojure.org/about/functional_programming#_recursive_looping no]
 |-
 | [[Ruby_(programming_language)|Ruby]]
+| license
 | 1995
 | object-oriented, imperative, functional, reflective
 |
@@ -66,6 +73,7 @@
 | no
 |-
 | [[JavaScript|Javascript]]
+| license
 | 1995
 | scripting, object-oriented (prototype-based), imperative, functional
 |
@@ -75,6 +83,7 @@
 | no (maybe in ES6)
 |-
 | [[Python_(programming_language)|Python]]
+| license
 | 1991
 | object-oriented, imperative, functional, procedural, reflective
 |
@@ -84,6 +93,7 @@
 | no
 |-
 | [[Go_(programming_language)|Go]]
+| license
 | 2009
 | compiled, concurrent, imperative, structured
 |
@@ -93,6 +103,7 @@
 | [https://groups.google.com/forum/#!msg/golang-nuts/nOS2FEiIAaM/miAg83qEn-AJ no]
 |-
 | [[Rust_(programming_language)|Rust]]
+| license
 | 2010
 | compiled, concurrent, functional, imperative, structured
 |
@@ -102,6 +113,7 @@
 | [https://mail.mozilla.org/pipermail/rust-dev/2013-April/003557.html no]
 |-
 | [[Erlang_(programming_language)|Erlang]]
+| license
 | 1986
 | concurrent, functional
 |
@@ -111,6 +123,7 @@
 | yes
 |-
 | [[Haskell_(programming_language)|Haskell]]
+| license
 | 1990
 | functional, lazy/non-strict, modular
 |
@@ -120,6 +133,7 @@
 | [https://wiki.haskell.org/Tail_recursion yes]
 |-
 | [[Racket_(programming_language)|Racket]]
+| license
 | 1994
 | functional, procedural, modular, object-oriented, logic, reflective, meta
 | Scheme, Eiffel
@@ -129,6 +143,7 @@
 |-
 | [[Perl_6|Perl]]
 | 1987
+| license
 | functional, imperative, object-oriented (class-based), reflective, procedural, event-driven, generic
 |
 |
@@ -138,6 +153,7 @@
 |-
 | [[Swift_(programming_language)|Swift]]
 | 2014
+| license
 | (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
 |
 |
@@ -147,6 +163,7 @@
 |-
 | [[Objective-C|Objective-C]]
 | 1983
+| license
 | Reflective, class-based object-oriented
 |
 |
@@ -156,6 +173,7 @@
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | 1970
+| license
 | Imperative Structured
 |
 |
@@ -165,6 +183,7 @@
 |-
 | [[Wolfram_Language|Wolfram]]
 | 1988
+| license
 | term-rewriting, functional, procedural, array
 |
 |
