@@ -177,7 +177,8 @@
 | [[Wolfram_Language|Wolfram]]
 | [[Proprietary license|Proprietary]]
 | 1988
-| [[Julia (programming language)|Julia]]
+| functional languages
+|
 | term-rewriting, functional, procedural, array
 | no maybe
 | no maybe
