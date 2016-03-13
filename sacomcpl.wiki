@@ -60,7 +60,7 @@
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
 | 2011
-| [[https://en.wikipedia.org/wiki/Object-oriented_programming|oop]], [[Procedural_programming, procedural]]
+| [[Object-oriented_programming|oop]], [[Procedural_programming, procedural]]
 | [[Java (programming language)|Java]], [[Scala (programming language)|Scala]], [[Groovy (programming language)|Groovy]], [[C Sharp (programming language)|C#]], [[Gosu (programming language)|Gosu]]
 | [[Type system#Static type-checking|static]]
 | yes
