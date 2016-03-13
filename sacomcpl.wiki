@@ -148,37 +148,37 @@
 | no
 |-
 | [[Swift_(programming_language)|Swift]]
+|
 | 2014
-| license
-| (Protocol-oriented programming, object-oriented, functional, imperative, block structured)
-|
-|
+| [[Multi-paradigm programming language|Multi-paradigm]] (Protocol-oriented programming, [[Object-oriented programming|object-oriented]], [[Functional programming|functional]], [[Imperative programming|imperative]], [[Block (programming)|block structured]])
+| [[C Sharp (programming language)|C#]],<ref name="lattner2014">{{cite web|url=http://nondot.org/sabre/|title=Chris Lattner's Homepage|last=Lattner|first=Chris|date=2014-06-03|accessdate=2014-06-03|publisher=Chris Lattner|quote=The Swift language is the product of tireless effort from a team of language experts, documentation gurus, compiler optimization ninjas, and an incredibly important internal dogfooding group who provided feedback to help refine and battle-test ideas. Of course, it also greatly benefited from the experiences hard-won by many other languages in the field, drawing ideas from Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list.}}</ref> [[CLU (programming language)|CLU]],<ref name="lattner 2014 info 1">{{cite web|url=http://nondot.org/sabre|title=Chris Lattner's Homepage|publisher=Chris Lattner|first=Chris|last=Lattner|authorlink=Chris Lattner|date=June 3, 2014|accessdate=June 3, 2014|quote=I started work on the Swift Programming Language in July of 2010. I implemented much of the basic language structure, with only a few people knowing of its existence. A few other (amazing) people started contributing in earnest late in 2011, and it became a major focus for the Apple Developer Tools group in July 2013 [...] drawing ideas from [[Objective-C]], Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list.}}</ref> [[D (programming language)|D]],<ref name="swift blog">{{cite web|title=Building  assert()  in Swift, Part 2:  __FILE__  and  __LINE__  - Swift Blog -|url=https://developer.apple.com/swift/blog/?id=15|publisher=Apple Developer|accessdate=September 26, 2014 | quote=Swift borrows a clever feature from the [[D language]]: these identifiers expand to the location of the caller when evaluated in a default argument list.}}</ref> [[Haskell (programming language)|Haskell]], [[Objective-C]], [[Python (programming language)|Python]], [[Rust (programming language)|Rust]], [[Ruby (programming language)|Ruby]]
+| [[Type system#Static type-checking|Static]], [[strong typing|strong]], [[type inference|inferred]]
 | [https://www.natashatherobot.com/functional-swift-tail-recursion/ no]
 | [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html no]
 |-
 | [[Objective-C|Objective-C]]
+|
 | 1983
-|
-| Reflective, class-based object-oriented
-|
-|
+| [[reflection (computer science)|Reflective]], [[class-based programming|class-based]] [[object-oriented programming|object-oriented]]
+| [[C (programming language)|C]], [[Smalltalk]]
+| [[Static typing|static]], [[Dynamic typing|dynamic]], [[Weak typing|weak]]
 | no
 | no
 |-
 | [[Pascal_(programming_language)|Pascal]]
-| 1970
 | depends on vendor
-| Imperative Structured
+| 1970
+| {{hlist |[[Imperative programming|Imperative]] |[[Structured programming|Structured]]}}
 |
-|
+| {{hlist |[[Static typing|Static]] |[[Strong and weak typing|Strong]] |[[type system#Safely and unsafely typed systems|Safe]]}}
 | [http://stackoverflow.com/questions/5900583/garbage-collection-in-sml-java-c-pascal no]
 | [http://stackoverflow.com/questions/27596248/why-languages-such-as-c-pascal-cannot-implement-tail-recursion no]
 |-
 | [[Wolfram_Language|Wolfram]]
+| [[Proprietary license|Proprietary]]
 | 1988
-| proprietary
+| [[Julia (programming language)|Julia]]
 | term-rewriting, functional, procedural, array
-|
 | no maybe
 | no maybe
 |}
