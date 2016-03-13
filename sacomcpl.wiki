@@ -31,7 +31,7 @@
 | maybe
 |-
 | [[Java_(programming_language)|Java]]
-| license
+| [[GNU General Public License]], [[Java Community Process]]
 | 1995
 | object-oriented (class-based), structured, imperative, generic, reflective, concurrent
 |
@@ -124,26 +124,26 @@
 | license
 | 1990
 | functional, lazy/non-strict, modular
-|
-|
+| [[Clean (programming language)|Clean]], [[FP (programming language)|FP]], [[Gofer (programming language)|Gofer]], [[Hope (programming language)|Hope]], [[Id (programming language)|Id]], [[ISWIM]], [[Kent Recursive Calculator|KRC]], [[Lisp (programming language)|Lisp]], [[Miranda (programming language)|Miranda]], [[ML (programming language)|ML]] and [[Standard ML]], [[Orwell (programming language)|Orwell]], [[SASL (programming language)|SASL]], [[Scheme (programming language)|Scheme]], [[SISAL]], [[Agda (theorem prover)|Agda]], [[Bluespec, Inc.|Bluespec]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|p=12-38,43}} [[C++11]]/[[Concepts (C++)|Concepts]], [[C Sharp (programming language)|C#]]/[[Language Integrated Query|LINQ]], [[CAL (Quark Framework)|CAL]],{{Citation needed|date=February 2012}} [[Cayenne (programming language)|Cayenne]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Clean (programming language)|Clean]], [[Clojure]], [[CoffeeScript]], [[Curry (programming language)|Curry]], [[Elm (programming language)|Elm]], [[Epigram (programming language)|Epigram]], [[Escher (programming language)|Escher]], [[F Sharp (programming language)|F#]], [[Frege (programming language)|Frege]], [[Hack (programming language)|Hack]], [[Idris (programming language)|Idris]], [[Isabelle theorem prover|Isabelle]], [[Java (programming language)|Java]]/[[Generics in Java|Generics]], [[LiveScript]], [[Mercury (programming language)|Mercury]], [[Ωmega interpreter|Omega]], [[Perl 6]], [[Python (programming language)|Python]], [[Rust (programming language)|Rust]], [[Scala (programming language)|Scala]], [[Swift (Apple programming language)|Swift]], [[Timber (programming language)|Timber]], [[Visual Basic .NET|Visual Basic 9.0]]
+| [[static typing|static]], [[strong typing|strong]], [[type inference|inferred]]
 | [https://wiki.haskell.org/GHC/Memory_Management yes]
 | [https://wiki.haskell.org/Tail_recursion yes]
 |-
 | [[Racket_(programming_language)|Racket]]
-| license
+| [[GNU Lesser General Public License|LGPL]]
 | 1994
-| functional, procedural, modular, object-oriented, logic, reflective, meta
-| Scheme, Eiffel
-| Dynamic, strong, static
+| [[functional programming|functional]], [[procedural programming|procedural]], [[modular programming|modular]], [[object-oriented programming|object-oriented]], [[logic programming|logic]], [[reflection (computer science)|reflective]], [[metaprogramming|meta]]
+| [[Scheme (programming language)|Scheme]], [[Eiffel (programming language)|Eiffel]]
+| [[dynamic typing|Dynamic]], [[strong typing|strong]], [[static typing|static]]
 | yes
 | yes
 |-
 | [[Perl_6|Perl]]
+| [[GNU General Public License]] or [[Artistic License]]
 | 1987
-| license
 | functional, imperative, object-oriented (class-based), reflective, procedural, event-driven, generic
 |
-|
+| [[dynamic typing|dynamic]], [[static typing|static]], [[gradual typing|gradual]]
 | yes
 | no
 |-
