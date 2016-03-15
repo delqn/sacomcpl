@@ -9,6 +9,10 @@
 ! scope="col" | typing
 ! scope="col" | GC
 ! scope="col" | tail call
+! scope="col" | pointers to functions
+! scope="col" | encapsulation
+! scope="col" | polymorphism
+! scope="col" | inheritance
 |-
 | [[C_(programming_language)|C]]
 | license
@@ -18,6 +22,10 @@
 | [[Type system|Static]], [[Weak typing|weak]], [[manifest typing|manifest]], [[Nominal type system|nominal]]
 | no
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[C%2B%2B|C++]]
 | license
@@ -27,6 +35,10 @@
 |
 | [[Resource Acquisition Is Initialization|no]]
 | maybe
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Java_(programming_language)|Java]]
 | [[GNU General Public License]], [[Java Community Process]]
@@ -36,6 +48,10 @@
 |
 | yes
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Scala_(programming_language)|Scala]]
 | license
@@ -45,6 +61,10 @@
 |
 | yes
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Clojure|Clojure]]
 | [[Eclipse Public License]]
@@ -54,6 +74,10 @@
 | [[dynamic typing|dynamic]], [[strong typing|strong]]
 | yes
 | [http://clojure.org/about/functional_programming#_recursive_looping no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
@@ -63,6 +87,10 @@
 | [[Type system#Static type-checking|static]]
 | yes
 | [http://clojure.org/about/functional_programming#_recursive_looping no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Ruby_(programming_language)|Ruby]]
 | license
@@ -72,6 +100,10 @@
 |
 | [http://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html yes]
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[JavaScript|Javascript]]
 | license
@@ -81,6 +113,10 @@
 |
 | [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management yes]
 | no (maybe in ES6)
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Python_(programming_language)|Python]]
 | license
@@ -90,6 +126,10 @@
 |
 | yes
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Go_(programming_language)|Go]]
 | license
@@ -99,6 +139,10 @@
 |
 | yes
 | [https://groups.google.com/forum/#!msg/golang-nuts/nOS2FEiIAaM/miAg83qEn-AJ no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Rust_(programming_language)|Rust]]
 | license
@@ -108,6 +152,10 @@
 |
 | [https://doc.rust-lang.org/std/sync/struct.Arc.html no]
 | [https://mail.mozilla.org/pipermail/rust-dev/2013-April/003557.html no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Erlang_(programming_language)|Erlang]]
 | license
@@ -117,6 +165,10 @@
 |
 | yes
 | yes
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | license
@@ -126,6 +178,10 @@
 | [[static typing|static]], [[strong typing|strong]], [[type inference|inferred]]
 | [https://wiki.haskell.org/GHC/Memory_Management yes]
 | [https://wiki.haskell.org/Tail_recursion yes]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Racket_(programming_language)|Racket]]
 | [[GNU Lesser General Public License|LGPL]]
@@ -135,6 +191,10 @@
 | [[dynamic typing|Dynamic]], [[strong typing|strong]], [[static typing|static]]
 | yes
 | yes
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Perl_6|Perl]]
 | [[GNU General Public License]] or [[Artistic License]]
@@ -144,6 +204,10 @@
 | [[dynamic typing|dynamic]], [[static typing|static]], [[gradual typing|gradual]]
 | yes
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Swift_(programming_language)|Swift]]
 |
@@ -153,6 +217,10 @@
 | [[Type system#Static type-checking|Static]], [[strong typing|strong]], [[type inference|inferred]]
 | [https://www.natashatherobot.com/functional-swift-tail-recursion/ no]
 | [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Objective-C|Objective-C]]
 |
@@ -162,6 +230,10 @@
 | [[Static typing|static]], [[Dynamic typing|dynamic]], [[Weak typing|weak]]
 | no
 | no
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | depends on vendor
@@ -171,6 +243,10 @@
 | {{hlist |[[Static typing|Static]] |[[Strong and weak typing|Strong]] |[[type system#Safely and unsafely typed systems|Safe]]}}
 | [http://stackoverflow.com/questions/5900583/garbage-collection-in-sml-java-c-pascal no]
 | [http://stackoverflow.com/questions/27596248/why-languages-such-as-c-pascal-cannot-implement-tail-recursion no]
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |-
 | [[Wolfram_Language|Wolfram]]
 | [[Proprietary license|Proprietary]]
@@ -180,4 +256,8 @@
 | term-rewriting, functional, procedural, array
 | no maybe
 | no maybe
+| ptf
+| encapsulation
+| polymorphism
+| inheritance
 |}
