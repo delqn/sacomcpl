@@ -1,5 +1,3 @@
-## Computer Programming Languages
-
 {| class="wikitable sortable"
 |+ Sortable table
 |-
