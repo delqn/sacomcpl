@@ -13,9 +13,11 @@
 ! scope="col" | encapsulation
 ! scope="col" | polymorphism
 ! scope="col" | inheritance
+! scope="col" | currying
+! scope="col" | monads
 |-
 | [[C_(programming_language)|C]]
-| license
+| GPLv3
 | 1972
 | imperative (procedural), structured
 | [[B (programming language)|B]] ([[BCPL]], [[CPL (programming language)|CPL]]), [[ALGOL 68]],[[Assembly language|Assembly]], [[PL/I]], [[FORTRAN]]
@@ -26,9 +28,11 @@
 | encapsulation
 | polymorphism
 | inheritance
+| [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| monads
 |-
 | [[C%2B%2B|C++]]
-| license
+| GPLv3
 | 1983
 | procedural, functional, object-oriented, generic
 |
@@ -36,9 +40,11 @@
 | [[Resource Acquisition Is Initialization|no]]
 | maybe
 | ptf
-| encapsulation
-| polymorphism
-| inheritance
+| [http://www.cs.mun.ca/~donald/bsc/node13.html yes]
+| yes
+| yes
+| [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| monads
 |-
 | [[Java_(programming_language)|Java]]
 | [[GNU General Public License]], [[Java Community Process]]
@@ -48,13 +54,15 @@
 |
 | yes
 | no
-| ptf
-| encapsulation
-| polymorphism
-| inheritance
+| via interface?
+| [http://www.tutorialspoint.com/java/java_encapsulation.htm yes]
+| [http://www.tutorialspoint.com/java/java_polymorphism.htm yes]
+| [https://examples.javacodegeeks.com/java-basics/java-inheritance-example/ yes]
+| [http://stackoverflow.com/questions/6134278/does-java-support-currying yes in Java 8]
+| monads
 |-
 | [[Scala_(programming_language)|Scala]]
-| license
+| [https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22Revised_BSD_License.22.2C_.22New_BSD_License.22.2C_or_.22Modified_BSD_License.22.29 3-clause BSD license]
 | 2004
 | functional, object-oriented, imperative, concurrent
 |
@@ -62,9 +70,11 @@
 | yes
 | no
 | ptf
-| encapsulation
+| yes
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Clojure|Clojure]]
 | [[Eclipse Public License]]
@@ -78,6 +88,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
@@ -91,9 +103,11 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Ruby_(programming_language)|Ruby]]
-| license
+| Ruby, GPLv2 or 2-clause BSD license
 | 1995
 | object-oriented, imperative, functional, reflective
 |
@@ -104,45 +118,53 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[JavaScript|Javascript]]
 | license
 | 1995
 | scripting, object-oriented (prototype-based), imperative, functional
-|
-|
+| Lua, Scheme, Perl, Self, Java, C, Python, AWK, HyperTalk
+| dynamic, duck
 | [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management yes]
 | no (maybe in ES6)
 | ptf
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Python_(programming_language)|Python]]
-| license
+| [https://en.wikipedia.org/wiki/Python_Software_Foundation_License Python Software Foundation License]
 | 1991
 | object-oriented, imperative, functional, procedural, reflective
-|
-|
+| ABC, ALGOL 68, C, C++, Dylan, Haskell, Icon, Java, Lisp, Modula‑3, Perl
+| duck, dynamic, strong, gradual (as of Python 3.5)
 | yes
 | no
 | ptf
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Go_(programming_language)|Go]]
-| license
+| BSD-style + Patent grant
 | 2009
 | compiled, concurrent, imperative, structured
-|
-|
+| Alef, APL, BCPL, C, CSP, Limbo, Modula, Newsqueak, Oberon, occam, Pascal, Python, Smalltalk
+| strong, static, inferred, structural
 | yes
 | [https://groups.google.com/forum/#!msg/golang-nuts/nOS2FEiIAaM/miAg83qEn-AJ no]
-| ptf
+| [http://stackoverflow.com/questions/3601796/can-we-have-function-pointers-in-google-go yes]
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Rust_(programming_language)|Rust]]
 | license
@@ -156,22 +178,26 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Erlang_(programming_language)|Erlang]]
-| license
+| Apache License 2.0
 | 1986
 | concurrent, functional
-|
-|
+| Prolog, Smalltalk, PLEX
+| dynamic, strong
 | yes
 | yes
 | ptf
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Haskell_(programming_language)|Haskell]]
-| license
+| New BSD License (GHC)
 | 1990
 | functional, lazy/non-strict, modular
 | [[Clean (programming language)|Clean]], [[FP (programming language)|FP]], [[Gofer (programming language)|Gofer]], [[Hope (programming language)|Hope]], [[Id (programming language)|Id]], [[ISWIM]], [[Kent Recursive Calculator|KRC]], [[Lisp (programming language)|Lisp]], [[Miranda (programming language)|Miranda]], [[ML (programming language)|ML]] and [[Standard ML]], [[Orwell (programming language)|Orwell]], [[SASL (programming language)|SASL]], [[Scheme (programming language)|Scheme]], [[SISAL]], [[Agda (theorem prover)|Agda]], [[Bluespec, Inc.|Bluespec]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|p=12-38,43}} [[C++11]]/[[Concepts (C++)|Concepts]], [[C Sharp (programming language)|C#]]/[[Language Integrated Query|LINQ]], [[CAL (Quark Framework)|CAL]],{{Citation needed|date=February 2012}} [[Cayenne (programming language)|Cayenne]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Clean (programming language)|Clean]], [[Clojure]], [[CoffeeScript]], [[Curry (programming language)|Curry]], [[Elm (programming language)|Elm]], [[Epigram (programming language)|Epigram]], [[Escher (programming language)|Escher]], [[F Sharp (programming language)|F#]], [[Frege (programming language)|Frege]], [[Hack (programming language)|Hack]], [[Idris (programming language)|Idris]], [[Isabelle theorem prover|Isabelle]], [[Java (programming language)|Java]]/[[Generics in Java|Generics]], [[LiveScript]], [[Mercury (programming language)|Mercury]], [[Ωmega interpreter|Omega]], [[Perl 6]], [[Python (programming language)|Python]], [[Rust (programming language)|Rust]], [[Scala (programming language)|Scala]], [[Swift (Apple programming language)|Swift]], [[Timber (programming language)|Timber]], [[Visual Basic .NET|Visual Basic 9.0]]
@@ -182,6 +208,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Racket_(programming_language)|Racket]]
 | [[GNU Lesser General Public License|LGPL]]
@@ -195,6 +223,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Perl_6|Perl]]
 | [[GNU General Public License]] or [[Artistic License]]
@@ -208,6 +238,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Swift_(programming_language)|Swift]]
 |
@@ -221,6 +253,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| monads
 |-
 | [[Objective-C|Objective-C]]
 |
@@ -234,6 +268,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | depends on vendor
@@ -247,6 +283,8 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |-
 | [[Wolfram_Language|Wolfram]]
 | [[Proprietary license|Proprietary]]
@@ -260,4 +298,6 @@
 | encapsulation
 | polymorphism
 | inheritance
+| currying
+| monads
 |}
