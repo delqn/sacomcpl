@@ -14,6 +14,7 @@
 ! scope="col" | polymorphism
 ! scope="col" | inheritance
 ! scope="col" | currying
+! scope="col" | lambdas
 ! scope="col" | monads
 |-
 | [[C_(programming_language)|C]]
@@ -29,6 +30,7 @@
 | polymorphism
 | inheritance
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| lambda
 | monads
 |-
 | [[C%2B%2B|C++]]
@@ -44,6 +46,7 @@
 | yes
 | yes
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| lambda
 | monads
 |-
 | [[Java_(programming_language)|Java]]
@@ -59,6 +62,7 @@
 | [http://www.tutorialspoint.com/java/java_polymorphism.htm yes]
 | [https://examples.javacodegeeks.com/java-basics/java-inheritance-example/ yes]
 | [http://stackoverflow.com/questions/6134278/does-java-support-currying yes in Java 8]
+| lambda
 | monads
 |-
 | [[Scala_(programming_language)|Scala]]
@@ -74,6 +78,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Clojure|Clojure]]
@@ -89,6 +94,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Kotlin (programming language)|Kotlin]]
@@ -104,6 +110,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Ruby_(programming_language)|Ruby]]
@@ -119,6 +126,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[JavaScript|Javascript]]
@@ -134,6 +142,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Python_(programming_language)|Python]]
@@ -149,6 +158,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Go_(programming_language)|Go]]
@@ -164,6 +174,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Rust_(programming_language)|Rust]]
@@ -179,6 +190,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Erlang_(programming_language)|Erlang]]
@@ -194,6 +206,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Haskell_(programming_language)|Haskell]]
@@ -209,6 +222,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Racket_(programming_language)|Racket]]
@@ -224,6 +238,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Perl_6|Perl]]
@@ -239,6 +254,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Swift_(programming_language)|Swift]]
@@ -254,6 +270,7 @@
 | polymorphism
 | inheritance
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
+| lambda
 | monads
 |-
 | [[Objective-C|Objective-C]]
@@ -269,6 +286,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Pascal_(programming_language)|Pascal]]
@@ -284,6 +302,7 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |-
 | [[Wolfram_Language|Wolfram]]
@@ -299,5 +318,6 @@
 | polymorphism
 | inheritance
 | currying
+| lambda
 | monads
 |}
