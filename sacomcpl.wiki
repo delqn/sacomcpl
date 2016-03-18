@@ -13,6 +13,7 @@
 ! scope="col" | encapsulation
 ! scope="col" | polymorphism
 ! scope="col" | inheritance
+! scope="col" | traits
 ! scope="col" | currying
 ! scope="col" | lambdas
 ! scope="col" | monads
@@ -29,6 +30,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
@@ -45,6 +47,7 @@
 | [http://www.cs.mun.ca/~donald/bsc/node13.html yes]
 | yes
 | yes
+| traits
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
@@ -61,6 +64,7 @@
 | [http://www.tutorialspoint.com/java/java_encapsulation.htm yes]
 | [http://www.tutorialspoint.com/java/java_polymorphism.htm yes]
 | [https://examples.javacodegeeks.com/java-basics/java-inheritance-example/ yes]
+| traits
 | [http://stackoverflow.com/questions/6134278/does-java-support-currying yes in Java 8]
 | lambda
 | monads
@@ -77,6 +81,7 @@
 | yes
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -93,6 +98,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -109,6 +115,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -125,6 +132,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -141,6 +149,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -157,6 +166,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -173,6 +183,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -189,6 +200,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -205,6 +217,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -221,6 +234,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -237,6 +251,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -253,6 +268,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -269,6 +285,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
@@ -285,6 +302,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -301,6 +319,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
@@ -317,6 +336,7 @@
 | encapsulation
 | polymorphism
 | inheritance
+| traits
 | currying
 | lambda
 | monads
