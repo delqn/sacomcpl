@@ -21,6 +21,7 @@
 ! scope="col" | future, promise, delay, deferred
 ! scope="col" | optional
 ! scope="col" | generics
+! scope="col" | pattern matching
 |-
 | [[C_(programming_language)|C]]
 | GPLv3
@@ -42,6 +43,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[C%2B%2B|C++]]
 | GPLv3
@@ -63,6 +65,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Java_(programming_language)|Java]]
 | [[GNU General Public License]], [[Java Community Process]]
@@ -84,6 +87,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Scala_(programming_language)|Scala]]
 | [https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22Revised_BSD_License.22.2C_.22New_BSD_License.22.2C_or_.22Modified_BSD_License.22.29 3-clause BSD license]
@@ -105,6 +109,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Clojure|Clojure]]
 | [[Eclipse Public License]]
@@ -126,6 +131,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
@@ -147,6 +153,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Ruby_(programming_language)|Ruby]]
 | Ruby, GPLv2 or 2-clause BSD license
@@ -168,6 +175,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[JavaScript|Javascript]]
 | license
@@ -189,6 +197,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Python_(programming_language)|Python]]
 | [https://en.wikipedia.org/wiki/Python_Software_Foundation_License Python Software Foundation License]
@@ -210,6 +219,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Go_(programming_language)|Go]]
 | BSD-style + Patent grant
@@ -231,6 +241,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Rust_(programming_language)|Rust]]
 | license
@@ -252,6 +263,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Erlang_(programming_language)|Erlang]]
 | Apache License 2.0
@@ -273,6 +285,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | New BSD License (GHC)
@@ -294,6 +307,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Racket_(programming_language)|Racket]]
 | [[GNU Lesser General Public License|LGPL]]
@@ -315,6 +329,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Perl_6|Perl]]
 | [[GNU General Public License]] or [[Artistic License]]
@@ -336,6 +351,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Swift_(programming_language)|Swift]]
 |
@@ -357,6 +373,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Objective-C|Objective-C]]
 |
@@ -378,6 +395,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | depends on vendor
@@ -399,6 +417,7 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |-
 | [[Wolfram_Language|Wolfram]]
 | [[Proprietary license|Proprietary]]
@@ -420,4 +439,5 @@
 | future, promise, delay, and deferred
 | optional
 | generics
+| pattern matching
 |}
