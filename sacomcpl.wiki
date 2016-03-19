@@ -17,6 +17,7 @@
 ! scope="col" | currying
 ! scope="col" | lambdas
 ! scope="col" | monads
+! scope="col" | future, promise, delay, deferred
 |-
 | [[C_(programming_language)|C]]
 | GPLv3
@@ -34,6 +35,7 @@
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[C%2B%2B|C++]]
 | GPLv3
@@ -51,6 +53,7 @@
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Java_(programming_language)|Java]]
 | [[GNU General Public License]], [[Java Community Process]]
@@ -68,6 +71,7 @@
 | [http://stackoverflow.com/questions/6134278/does-java-support-currying yes in Java 8]
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Scala_(programming_language)|Scala]]
 | [https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22Revised_BSD_License.22.2C_.22New_BSD_License.22.2C_or_.22Modified_BSD_License.22.29 3-clause BSD license]
@@ -85,6 +89,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Clojure|Clojure]]
 | [[Eclipse Public License]]
@@ -102,6 +107,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
@@ -119,6 +125,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Ruby_(programming_language)|Ruby]]
 | Ruby, GPLv2 or 2-clause BSD license
@@ -136,6 +143,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[JavaScript|Javascript]]
 | license
@@ -153,6 +161,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Python_(programming_language)|Python]]
 | [https://en.wikipedia.org/wiki/Python_Software_Foundation_License Python Software Foundation License]
@@ -170,6 +179,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Go_(programming_language)|Go]]
 | BSD-style + Patent grant
@@ -187,6 +197,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Rust_(programming_language)|Rust]]
 | license
@@ -204,6 +215,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Erlang_(programming_language)|Erlang]]
 | Apache License 2.0
@@ -221,6 +233,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | New BSD License (GHC)
@@ -238,6 +251,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Racket_(programming_language)|Racket]]
 | [[GNU Lesser General Public License|LGPL]]
@@ -255,6 +269,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Perl_6|Perl]]
 | [[GNU General Public License]] or [[Artistic License]]
@@ -272,6 +287,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Swift_(programming_language)|Swift]]
 |
@@ -289,6 +305,7 @@
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Objective-C|Objective-C]]
 |
@@ -306,6 +323,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Pascal_(programming_language)|Pascal]]
 | depends on vendor
@@ -323,6 +341,7 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |-
 | [[Wolfram_Language|Wolfram]]
 | [[Proprietary license|Proprietary]]
@@ -340,4 +359,5 @@
 | currying
 | lambda
 | monads
+| future, promise, delay, and deferred
 |}
