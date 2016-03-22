@@ -460,4 +460,50 @@
 | generics
 | pattern matching
 | [http://reference.wolfram.com/cloudplatform/Compile/tutorial/Operation.html Wolfram Language virtual machine]
+|-
+| [[Io]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| [[Prolog]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |}
