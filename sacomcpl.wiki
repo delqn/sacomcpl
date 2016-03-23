@@ -14,6 +14,8 @@
 ! scope="col" | polymorphism
 ! scope="col" | inheritance
 ! scope="col" | traits
+! scope="col" | interfaces
+! scope="col" | templates
 ! scope="col" | currying
 ! scope="col" | lambdas
 ! scope="col" | functors
@@ -38,6 +40,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | functors
@@ -62,6 +66,8 @@
 | yes
 | yes
 | traits
+| interfaces
+| templates
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | functors
@@ -86,6 +92,8 @@
 | [http://www.tutorialspoint.com/java/java_polymorphism.htm yes]
 | [https://examples.javacodegeeks.com/java-basics/java-inheritance-example/ yes]
 | traits
+| interfaces
+| templates
 | [http://stackoverflow.com/questions/6134278/does-java-support-currying yes in Java 8]
 | lambda
 | functors
@@ -110,6 +118,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -134,6 +144,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -158,6 +170,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -182,6 +196,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -206,6 +222,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -230,6 +248,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -254,6 +274,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -278,6 +300,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -302,6 +326,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -326,6 +352,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -350,6 +378,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -374,6 +404,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -398,6 +430,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | [http://asg.unige.ch/site/papers/Dami91a.pdf implementable]
 | lambda
 | functors
@@ -422,6 +456,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -446,6 +482,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -470,6 +508,8 @@
 | polymorphism
 | inheritance
 | traits
+| interfaces
+| templates
 | currying
 | lambda
 | functors
@@ -494,6 +534,8 @@
 |
 |
 |
+| interfaces
+| templates
 |
 |
 |
@@ -518,6 +560,8 @@
 |
 |
 |
+| interfaces
+| templates
 |
 |
 |
