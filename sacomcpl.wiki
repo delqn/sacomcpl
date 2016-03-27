@@ -155,7 +155,7 @@
 | generics
 | pattern matching
 | [[Java virtual machine]]
-| [http://blog.dynamicprogrammer.com/2012/11/23/learning-erlang-9-string-manipulation-in-erlang.html treated internally as a list of numbers that represent characters]
+| string processing
 |-
 | [[Kotlin (programming language)|Kotlin]]
 | [[Apache license|Apache 2]]
@@ -316,8 +316,8 @@
 | [[Erlang_(programming_language)|Erlang]]
 | Apache License 2.0
 | 1986
-| concurrent, functional
-| Prolog, Smalltalk, PLEX
+| [https://en.wikipedia.org/wiki/Concurrent_computing concurrent], [https://en.wikipedia.org/wiki/Functional_programming functional]
+| [https://en.wikipedia.org/wiki/Prolog Prolog], [https://en.wikipedia.org/wiki/Smalltalk Smalltalk], [https://en.wikipedia.org/wiki/PLEX_%28programming_language%29 PLEX]
 | dynamic, strong
 | yes
 | yes
@@ -335,9 +335,9 @@
 | future, promise, delay, and deferred
 | optional
 | generics
-| pattern matching
-| BEAM
-| string processing
+| [https://en.wikipedia.org/wiki/Category:Pattern_matching_programming_languages pattern matching]
+| [http://www.erlang-factory.com/upload/presentations/708/HitchhikersTouroftheBEAM.pdf BEAM]
+| [http://blog.dynamicprogrammer.com/2012/11/23/learning-erlang-9-string-manipulation-in-erlang.html treated internally as a list of numbers that represent characters]
 |-
 | [[Haskell_(programming_language)|Haskell]]
 | New BSD License (GHC)
